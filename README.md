@@ -28,8 +28,10 @@ Layout
 3D-Views
 --------
 
+![](JLCPCB-3D-top.png)
 ![](pcb-3D-top.png)
 ![](pcb-3D-bottom.png)
+
 
 License
 -------
