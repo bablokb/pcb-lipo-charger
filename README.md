@@ -12,6 +12,12 @@ For battery protection, the XB6166IS from XySemi is used.
 Overcurrent detection kicks in at about 900mA, so this is
 not a charger for high loads.
 
+The charge curve below shows both phases: constant current at
+the beginning and constant voltage after reaching the cutoff
+voltage. Charge termination is at 15mA.
+
+![](charge-curve.png)
+
 
 Schematic
 ---------
